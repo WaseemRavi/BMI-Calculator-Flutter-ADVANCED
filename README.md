@@ -1,7 +1,7 @@
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
-# BMI Calculator 💪
+# BMI Calculator BY Waseem
 
 ## Our Goal
 
